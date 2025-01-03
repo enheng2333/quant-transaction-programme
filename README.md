@@ -1,3 +1,4 @@
 # quant-transaction-programme
-learn to create a quant transaction program
-firstly,I got the idea from a bilibili influncer,he post his quant transaction code on github. I need to read his code to fully understand the strategy.  
+learn to create a quant transaction program.
+
+Firstly,I got the idea from a bilibili influncer,he post his quant transaction code on github. I need to read his code to fully understand the strategy.  
